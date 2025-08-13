@@ -8,7 +8,8 @@
 ## 🚀 Tecnologias Utilizadas
 
 - **.NET 8.0** com **C#**  
-- **MySQL** como banco de dados  
+- **MySQL** como banco de dados
+- **Api de Autenticação** 
 
 ## 😎 Quero mexer nesse projeto, preciso de quê?
 
@@ -27,6 +28,8 @@
   ```
 
 ### 📚 EndPoints/Rotas da API
+
+**EM CONSTRUÇÃO
 
 
 
