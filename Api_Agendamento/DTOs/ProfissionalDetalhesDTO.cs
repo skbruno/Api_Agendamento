@@ -1,6 +1,8 @@
-﻿namespace Api_Agendamento.Models
+﻿using Api_Agendamento.Models;
+
+namespace Api_Agendamento.DTOs
 {
-    public class Profissional
+    public class ProfissionalDetalhesDTO
     {
         public int Id { get; set; }
         public string Nome { get; set; }

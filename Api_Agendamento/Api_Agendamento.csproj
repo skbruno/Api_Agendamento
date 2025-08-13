@@ -18,13 +18,10 @@
 
   <ItemGroup>
     <Folder Include="Context\" />
-    <Folder Include="DTOs\" />
     <Folder Include="Filters\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Migrations\" />
     <Folder Include="Repository\" />
     <Folder Include="Pagination\Interfaces\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>

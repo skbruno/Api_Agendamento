@@ -1,6 +1,6 @@
-﻿namespace Api_Agendamento.Models
+﻿namespace Api_Agendamento.DTOs
 {
-    public class RamoProfissional
+    public class RamoProfissionalDTO
     {
         public int Id { get; set; }
         public string? NomeRamo { get; set; }
