@@ -7,6 +7,7 @@ namespace Api_Agendamento.Interfaces
         Task<AgendamentoDTO> CriarAgendamentoAsync(AgendamentoDTO agendamento);
         Task<bool> AlterarAgendamentoAsync(AgendamentoDTO agendamento, int id);
         Task<bool> ExcluirAgendamentoAsync(int id);
-        Task<IEnumerable<AgendamentoDTO>> ObterAgendamentosAsync(ClienteDTO cliente);
+        Task<int> BuscarAgendamentoAsync(int id);
+        Task<IEnumerable<AgendamentoDTO>> ObterAgendamentosAsync();
     }
 }
