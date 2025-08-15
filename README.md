@@ -20,7 +20,9 @@
 
 - `Pomelo.EntityFrameworkCore.MySql` - versão **8.0.0**  
 - `Swashbuckle.AspNetCore` - versão **6.6.2**  
-- `Microsoft.EntityFrameworkCore.Design` - versão **8.0.1**  
+- `Microsoft.EntityFrameworkCore.Design` - versão **8.0.1**
+- `AutoMapper` - versão **12.0.1**
+- `AutoMapper.Extensions.Microsoft.DependencyInjection` - versão **12.0.1**  
 
   
   ```http
